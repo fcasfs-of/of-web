@@ -1,1 +1,55 @@
 #EXTM3U size="big" 
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/abMJ2IJ.png", Canais: Abertos
+#EXTBG:https://i.imgur.com/abMJ2IJ.png
+http://ssiptv.painelgerenciador.me/ssiptv/paula12134/crezUPfC41/canal/6
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/abMJ2IJ.png", Canais: Documentários
+#EXTBG:https://i.imgur.com/abMJ2IJ.png
+http://ssiptv.painelgerenciador.me/ssiptv/paula12134/crezUPfC41/canal/16
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/abMJ2IJ.png", Canais: Esportes
+#EXTBG:https://i.imgur.com/abMJ2IJ.png
+http://ssiptv.painelgerenciador.me/ssiptv/paula12134/crezUPfC41/canal/3
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/abMJ2IJ.png", Canais: Esportes PPV
+#EXTBG:https://i.imgur.com/abMJ2IJ.png
+http://ssiptv.painelgerenciador.me/ssiptv/paula12134/crezUPfC41/canal/100141
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/abMJ2IJ.png", Canais: Esportes Estaduais
+#EXTBG:https://i.imgur.com/abMJ2IJ.png
+http://ssiptv.painelgerenciador.me/ssiptv/paula12134/crezUPfC41/canal/100362
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/abMJ2IJ.png", Canais: Esportes Europeus
+#EXTBG:https://i.imgur.com/abMJ2IJ.png
+http://ssiptv.painelgerenciador.me/ssiptv/paula12134/crezUPfC41/canal/100363
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/abMJ2IJ.png", Canais: Esportes NBA
+#EXTBG:https://i.imgur.com/abMJ2IJ.png
+http://ssiptv.painelgerenciador.me/ssiptv/paula12134/crezUPfC41/canal/100364
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/abMJ2IJ.png", Canais: Esportes Premiere
+#EXTBG:https://i.imgur.com/abMJ2IJ.png
+http://ssiptv.painelgerenciador.me/ssiptv/paula12134/crezUPfC41/canal/100142
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/abMJ2IJ.png", Canais: Filmes e Séries
+#EXTBG:https://i.imgur.com/abMJ2IJ.png
+http://ssiptv.painelgerenciador.me/ssiptv/paula12134/crezUPfC41/canal/8
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/abMJ2IJ.png", Canais: Globos
+#EXTBG:https://i.imgur.com/abMJ2IJ.png
+http://ssiptv.painelgerenciador.me/ssiptv/paula12134/crezUPfC41/canal/100053
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/abMJ2IJ.png", Canais: Infantil
+#EXTBG:https://i.imgur.com/abMJ2IJ.png
+http://ssiptv.painelgerenciador.me/ssiptv/paula12134/crezUPfC41/canal/5
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/abMJ2IJ.png", Canais: Jornalismo
+#EXTBG:https://i.imgur.com/abMJ2IJ.png
+http://ssiptv.painelgerenciador.me/ssiptv/paula12134/crezUPfC41/canal/9
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/abMJ2IJ.png", Canais: Religioso
+#EXTBG:https://i.imgur.com/abMJ2IJ.png
+http://ssiptv.painelgerenciador.me/ssiptv/paula12134/crezUPfC41/canal/19
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/abMJ2IJ.png", Canais: Variedades
+#EXTBG:https://i.imgur.com/abMJ2IJ.png
+http://ssiptv.painelgerenciador.me/ssiptv/paula12134/crezUPfC41/canal/1
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/abMJ2IJ.png", Canais: 24 Hrs
+#EXTBG:https://i.imgur.com/abMJ2IJ.png
+http://ssiptv.painelgerenciador.me/ssiptv/paula12134/crezUPfC41/canal/17
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/abMJ2IJ.png", Canais: Legendados
+#EXTBG:https://i.imgur.com/abMJ2IJ.png
+http://ssiptv.painelgerenciador.me/ssiptv/paula12134/crezUPfC41/canal/451
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/abMJ2IJ.png", Canais: On Demand
+#EXTBG:https://i.imgur.com/abMJ2IJ.png
+http://ssiptv.painelgerenciador.me/ssiptv/paula12134/crezUPfC41/canal/100054
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/abMJ2IJ.png", Canais: Move
+#EXTBG:https://i.imgur.com/abMJ2IJ.png
+http://ssiptv.painelgerenciador.me/ssiptv/paula12134/crezUPfC41/canal/100063
