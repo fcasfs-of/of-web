@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Bandnews.br"  tvg-name="Band News SD"  tvg-logo="http://srvlogo.07d994.co/cover/1/bandnews.png" group-title="Canais: Jornalismo",Band News SD 
+http://srv.mtvs.me:8880/paula12134/crezUPfC41/28649
+#EXTINF:-1 tvg-id="Bandnews.br"  tvg-name="Band News HD"  tvg-logo="http://srvlogo.07d994.co/cover/1/bandnews.png" group-title="Canais: Jornalismo",Band News HD 
+http://srv.mtvs.me:8880/paula12134/crezUPfC41/28648
+#EXTINF:-1 tvg-id="Bandnews.br"  tvg-name="Band News FHD"  tvg-logo="http://srvlogo.07d994.co/cover/1/bandnews.png" group-title="Canais: Jornalismo",Band News FHD 
+http://srv.mtvs.me:8880/paula12134/crezUPfC41/30885
+#EXTINF:-1 tvg-id="CNNBrasil.br"  tvg-name="CNN Brasil SD"  tvg-logo="http://srvlogo.07d994.co/cover/1/cnnbrasil.png" group-title="Canais: Jornalismo",CNN Brasil SD 
+http://srv.mtvs.me:8880/paula12134/crezUPfC41/41170
+#EXTINF:-1 tvg-id="CNNBrasil.br"  tvg-name="CNN Brasil HD"  tvg-logo="http://srvlogo.07d994.co/cover/1/cnnbrasil.png" group-title="Canais: Jornalismo",CNN Brasil HD 
+http://srv.mtvs.me:8880/paula12134/crezUPfC41/41171
+#EXTINF:-1 tvg-id="CNNBrasil.br"  tvg-name="CNN Brasil FHD"  tvg-logo="http://srvlogo.07d994.co/cover/1/cnnbrasil.png" group-title="Canais: Jornalismo",CNN Brasil FHD 
+http://srv.mtvs.me:8880/paula12134/crezUPfC41/41172
+#EXTINF:-1 tvg-id="CNNBrasil.br"  tvg-name="CNN Internacional"  tvg-logo="http://srvlogo.07d994.co/cover/1/cnninter.png" group-title="Canais: Jornalismo",CNN Internacional 
+http://srv.mtvs.me:8880/paula12134/crezUPfC41/54807
+#EXTINF:-1 tvg-id=""  tvg-name="FRANCE 24 HD"  tvg-logo="http://srvlogo.07d994.co/cover/1/France.png" group-title="Canais: Jornalismo",FRANCE 24 HD 
+http://srv.mtvs.me:8880/paula12134/crezUPfC41/100547
+#EXTINF:-1 tvg-id=""  tvg-name="FRANCE 24 SD"  tvg-logo="http://srvlogo.07d994.co/cover/1/France.png" group-title="Canais: Jornalismo",FRANCE 24 SD 
+http://srv.mtvs.me:8880/paula12134/crezUPfC41/100548
+#EXTINF:-1 tvg-id="Globonews.br"  tvg-name="Globo News SD"  tvg-logo="http://srvlogo.07d994.co/cover/1/globonews.png" group-title="Canais: Jornalismo",Globo News SD 
+http://srv.mtvs.me:8880/paula12134/crezUPfC41/46633
+#EXTINF:-1 tvg-id="Globonews.br"  tvg-name="Globo News HD"  tvg-logo="http://srvlogo.07d994.co/cover/1/globonews.png" group-title="Canais: Jornalismo",Globo News HD 
+http://srv.mtvs.me:8880/paula12134/crezUPfC41/46634
+#EXTINF:-1 tvg-id="Globonews.br"  tvg-name="Globo News FHD"  tvg-logo="http://srvlogo.07d994.co/cover/1/globonews.png" group-title="Canais: Jornalismo",Globo News FHD 
+http://srv.mtvs.me:8880/paula12134/crezUPfC41/30808
+#EXTINF:-1 tvg-id="Globonews.br"  tvg-name="Globo News FHD H.265"  tvg-logo="http://srvlogo.07d994.co/cover/1/globonews.png" group-title="Canais: Jornalismo",Globo News FHD H.265 
+http://srv.mtvs.me:8880/paula12134/crezUPfC41/79717
+#EXTINF:-1 tvg-id="Example"  tvg-name="Jovem Pan News SD"  tvg-logo="http://srvlogo.07d994.co/cover/1/jovempan.png" group-title="Canais: Jornalismo",Jovem Pan News SD 
+http://srv.mtvs.me:8880/paula12134/crezUPfC41/74929
+#EXTINF:-1 tvg-id="Example"  tvg-name="Jovem Pan News HD"  tvg-logo="http://srvlogo.07d994.co/cover/1/jovempan.png" group-title="Canais: Jornalismo",Jovem Pan News HD 
+http://srv.mtvs.me:8880/paula12134/crezUPfC41/74930
+#EXTINF:-1 tvg-id="Example"  tvg-name="Jovem Pan News FHD"  tvg-logo="http://srvlogo.07d994.co/cover/1/jovempan.png" group-title="Canais: Jornalismo",Jovem Pan News FHD 
+http://srv.mtvs.me:8880/paula12134/crezUPfC41/74931
+#EXTINF:-1 tvg-id="Recordnews.br"  tvg-name="Record News SD"  tvg-logo="http://srvlogo.07d994.co/cover/1/recordnews.png" group-title="Canais: Jornalismo",Record News SD 
+http://srv.mtvs.me:8880/paula12134/crezUPfC41/46599
+#EXTINF:-1 tvg-id="Recordnews.br"  tvg-name="Record News HD"  tvg-logo="http://srvlogo.07d994.co/cover/1/recordnews.png" group-title="Canais: Jornalismo",Record News HD 
+http://srv.mtvs.me:8880/paula12134/crezUPfC41/46600
+#EXTINF:-1 tvg-id="Recordnews.br"  tvg-name="Record News FHD"  tvg-logo="http://srvlogo.07d994.co/cover/1/recordnews.png" group-title="Canais: Jornalismo",Record News FHD 
+http://srv.mtvs.me:8880/paula12134/crezUPfC41/30835
